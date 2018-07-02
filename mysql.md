@@ -4,7 +4,7 @@
 <li><strong>Check logs : docker logs name</strong>(find default pwd in)</li>  
  <li><strong>ALTER USER 'root'@'localhost' IDENTIFIED BY 'password';</strong></li>  
   
-   <li>if 127.0.0.1 is not working when conntecting outiside the container use the gateway ip address like 127.17.0.1 instead</li>  
+ <strong>Troubleshooting</strong></br>if 127.0.0.1 is not working when conntecting outiside the container use the gateway ip address like 127.17.0.1 instead
 </ul>
 
 
