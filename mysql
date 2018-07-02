@@ -1,3 +1,0 @@
-docker pull mysql/mysql-server:latest
-
-docker run --name=mysql01 -d mysql/mysql-server:latest
